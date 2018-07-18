@@ -31,3 +31,5 @@ gray_image = cv2.cvtColor(input, cv2.COLOR_BGR2GRAY)
 B, G, R = input[0,0]
 
 print input
+
+pushtest
